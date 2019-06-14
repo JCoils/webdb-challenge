@@ -6,7 +6,7 @@ const knexConfig = {
   client: "sqlite3",
   useNullAsDefault: true,
   connection: {
-    filename: "./data/lambda.sqlite3"
+    filename: "./new.db3"
   }
 };
 
